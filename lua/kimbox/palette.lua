@@ -9,7 +9,7 @@ return {
     bg3 = "#291804",
     bg4 = "#5E452B",
     bg5 = "#5E452B",
-    fg0 = "#D9AE80",
+    fg0 = "#c0b18b",
     fg1 = "#7E602C",
     fg2 = "#5E452B",
     fg3 = "#C2A383",
@@ -24,34 +24,6 @@ return {
     aqua = "#22c3a1",
     blue = "#84edb9",
     purple = "#98676A",
-    --     # black
-    -- color0   #2f2f2f
-    -- color8   #656565
-    --
-    -- # red
-    -- color1   #d75f5f
-    --
-    -- # green
-    -- color2    #d4d232
-    -- color10   #8fee96
-    --
-    -- # yellow
-    -- color3    #af865a
-    -- color11   #cd950c
-    --
-    -- # blue
-    -- color4   #22c3a1
-    --
-    -- # magenta
-    -- color5   #775759
-    --
-    -- # cyan
-    -- color6   #84edb9
-    --
-    -- # white
-    -- color7   #c0b18b
-    -- color15  #d8d8d8
-    --
     philippine_green = "#088649",
     sea_green = "#77A172",
     jade_green = "#2AB074",
